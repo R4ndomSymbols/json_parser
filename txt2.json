@@ -1,0 +1,22 @@
+[
+    {
+      "property": true,
+      "service": {
+        "electric": false,
+        "record": 1557465129,
+        "yourself": "parent",
+        "physical": false,
+        "blind": true,
+        "no": false
+      },
+      "troops": "straight",
+      "greatest": -1956460460,
+      "purple": false,
+      "process": "alive"
+    },
+    "star",
+    true,
+    -386750935.78004694,
+    false,
+    "string"
+  ]
